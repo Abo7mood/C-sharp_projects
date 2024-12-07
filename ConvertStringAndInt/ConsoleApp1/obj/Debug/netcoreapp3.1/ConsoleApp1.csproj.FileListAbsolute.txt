@@ -1,0 +1,13 @@
+C:\Users\Abo_7\source\repos\HassounaAcademy\ConvertStringAndInt\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Abo_7\source\repos\HassounaAcademy\ConvertStringAndInt\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Abo_7\source\repos\HassounaAcademy\ConvertStringAndInt\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Abo_7\source\repos\HassounaAcademy\ConvertStringAndInt\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Abo_7\source\repos\HassounaAcademy\ConvertStringAndInt\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Abo_7\source\repos\HassounaAcademy\ConvertStringAndInt\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Abo_7\source\repos\HassounaAcademy\ConvertStringAndInt\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Abo_7\source\repos\HassounaAcademy\ConvertStringAndInt\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Abo_7\source\repos\HassounaAcademy\ConvertStringAndInt\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Abo_7\source\repos\HassounaAcademy\ConvertStringAndInt\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Abo_7\source\repos\HassounaAcademy\ConvertStringAndInt\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Abo_7\source\repos\HassounaAcademy\ConvertStringAndInt\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Abo_7\source\repos\HassounaAcademy\ConvertStringAndInt\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache

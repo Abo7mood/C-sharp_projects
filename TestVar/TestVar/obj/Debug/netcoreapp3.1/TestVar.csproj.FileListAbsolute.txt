@@ -1,0 +1,13 @@
+C:\Users\Abo_7\source\repos\HassounaAcademy\TestVar\TestVar\bin\Debug\netcoreapp3.1\TestVar.exe
+C:\Users\Abo_7\source\repos\HassounaAcademy\TestVar\TestVar\bin\Debug\netcoreapp3.1\TestVar.deps.json
+C:\Users\Abo_7\source\repos\HassounaAcademy\TestVar\TestVar\bin\Debug\netcoreapp3.1\TestVar.runtimeconfig.json
+C:\Users\Abo_7\source\repos\HassounaAcademy\TestVar\TestVar\bin\Debug\netcoreapp3.1\TestVar.runtimeconfig.dev.json
+C:\Users\Abo_7\source\repos\HassounaAcademy\TestVar\TestVar\bin\Debug\netcoreapp3.1\TestVar.dll
+C:\Users\Abo_7\source\repos\HassounaAcademy\TestVar\TestVar\bin\Debug\netcoreapp3.1\TestVar.pdb
+C:\Users\Abo_7\source\repos\HassounaAcademy\TestVar\TestVar\obj\Debug\netcoreapp3.1\TestVar.csprojAssemblyReference.cache
+C:\Users\Abo_7\source\repos\HassounaAcademy\TestVar\TestVar\obj\Debug\netcoreapp3.1\TestVar.AssemblyInfoInputs.cache
+C:\Users\Abo_7\source\repos\HassounaAcademy\TestVar\TestVar\obj\Debug\netcoreapp3.1\TestVar.AssemblyInfo.cs
+C:\Users\Abo_7\source\repos\HassounaAcademy\TestVar\TestVar\obj\Debug\netcoreapp3.1\TestVar.csproj.CoreCompileInputs.cache
+C:\Users\Abo_7\source\repos\HassounaAcademy\TestVar\TestVar\obj\Debug\netcoreapp3.1\TestVar.dll
+C:\Users\Abo_7\source\repos\HassounaAcademy\TestVar\TestVar\obj\Debug\netcoreapp3.1\TestVar.pdb
+C:\Users\Abo_7\source\repos\HassounaAcademy\TestVar\TestVar\obj\Debug\netcoreapp3.1\TestVar.genruntimeconfig.cache

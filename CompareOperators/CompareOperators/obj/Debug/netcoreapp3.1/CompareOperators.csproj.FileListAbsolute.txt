@@ -1,0 +1,13 @@
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\CompareOperators\CompareOperators\bin\Debug\netcoreapp3.1\CompareOperators.exe
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\CompareOperators\CompareOperators\bin\Debug\netcoreapp3.1\CompareOperators.deps.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\CompareOperators\CompareOperators\bin\Debug\netcoreapp3.1\CompareOperators.runtimeconfig.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\CompareOperators\CompareOperators\bin\Debug\netcoreapp3.1\CompareOperators.runtimeconfig.dev.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\CompareOperators\CompareOperators\bin\Debug\netcoreapp3.1\CompareOperators.dll
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\CompareOperators\CompareOperators\bin\Debug\netcoreapp3.1\CompareOperators.pdb
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\CompareOperators\CompareOperators\obj\Debug\netcoreapp3.1\CompareOperators.csprojAssemblyReference.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\CompareOperators\CompareOperators\obj\Debug\netcoreapp3.1\CompareOperators.AssemblyInfoInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\CompareOperators\CompareOperators\obj\Debug\netcoreapp3.1\CompareOperators.AssemblyInfo.cs
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\CompareOperators\CompareOperators\obj\Debug\netcoreapp3.1\CompareOperators.csproj.CoreCompileInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\CompareOperators\CompareOperators\obj\Debug\netcoreapp3.1\CompareOperators.dll
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\CompareOperators\CompareOperators\obj\Debug\netcoreapp3.1\CompareOperators.pdb
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\CompareOperators\CompareOperators\obj\Debug\netcoreapp3.1\CompareOperators.genruntimeconfig.cache

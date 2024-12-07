@@ -1,0 +1,13 @@
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\NewProject\NewProject\bin\Debug\netcoreapp3.1\NewProject.exe
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\NewProject\NewProject\bin\Debug\netcoreapp3.1\NewProject.deps.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\NewProject\NewProject\bin\Debug\netcoreapp3.1\NewProject.runtimeconfig.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\NewProject\NewProject\bin\Debug\netcoreapp3.1\NewProject.runtimeconfig.dev.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\NewProject\NewProject\bin\Debug\netcoreapp3.1\NewProject.dll
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\NewProject\NewProject\bin\Debug\netcoreapp3.1\NewProject.pdb
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.AssemblyInfoInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.AssemblyInfo.cs
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.csproj.CoreCompileInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.dll
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.pdb
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.genruntimeconfig.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\NewProject\NewProject\obj\Debug\netcoreapp3.1\NewProject.csprojAssemblyReference.cache

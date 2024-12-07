@@ -1,0 +1,13 @@
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If Examples you know\If Examples you know\bin\Debug\netcoreapp3.1\If Examples you know.exe
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If Examples you know\If Examples you know\bin\Debug\netcoreapp3.1\If Examples you know.deps.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If Examples you know\If Examples you know\bin\Debug\netcoreapp3.1\If Examples you know.runtimeconfig.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If Examples you know\If Examples you know\bin\Debug\netcoreapp3.1\If Examples you know.runtimeconfig.dev.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If Examples you know\If Examples you know\bin\Debug\netcoreapp3.1\If Examples you know.dll
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If Examples you know\If Examples you know\bin\Debug\netcoreapp3.1\If Examples you know.pdb
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If Examples you know\If Examples you know\obj\Debug\netcoreapp3.1\If Examples you know.csprojAssemblyReference.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If Examples you know\If Examples you know\obj\Debug\netcoreapp3.1\If Examples you know.AssemblyInfoInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If Examples you know\If Examples you know\obj\Debug\netcoreapp3.1\If Examples you know.AssemblyInfo.cs
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If Examples you know\If Examples you know\obj\Debug\netcoreapp3.1\If Examples you know.csproj.CoreCompileInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If Examples you know\If Examples you know\obj\Debug\netcoreapp3.1\If Examples you know.dll
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If Examples you know\If Examples you know\obj\Debug\netcoreapp3.1\If Examples you know.pdb
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If Examples you know\If Examples you know\obj\Debug\netcoreapp3.1\If Examples you know.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C#Scripts\SystemFiles\SystemFiles\bin\Debug\netcoreapp3.1\SystemFiles.exe
+D:\C#Scripts\SystemFiles\SystemFiles\bin\Debug\netcoreapp3.1\SystemFiles.deps.json
+D:\C#Scripts\SystemFiles\SystemFiles\bin\Debug\netcoreapp3.1\SystemFiles.runtimeconfig.json
+D:\C#Scripts\SystemFiles\SystemFiles\bin\Debug\netcoreapp3.1\SystemFiles.runtimeconfig.dev.json
+D:\C#Scripts\SystemFiles\SystemFiles\bin\Debug\netcoreapp3.1\SystemFiles.dll
+D:\C#Scripts\SystemFiles\SystemFiles\bin\Debug\netcoreapp3.1\SystemFiles.pdb
+D:\C#Scripts\SystemFiles\SystemFiles\obj\Debug\netcoreapp3.1\SystemFiles.AssemblyInfoInputs.cache
+D:\C#Scripts\SystemFiles\SystemFiles\obj\Debug\netcoreapp3.1\SystemFiles.AssemblyInfo.cs
+D:\C#Scripts\SystemFiles\SystemFiles\obj\Debug\netcoreapp3.1\SystemFiles.csproj.CoreCompileInputs.cache
+D:\C#Scripts\SystemFiles\SystemFiles\obj\Debug\netcoreapp3.1\SystemFiles.dll
+D:\C#Scripts\SystemFiles\SystemFiles\obj\Debug\netcoreapp3.1\SystemFiles.pdb
+D:\C#Scripts\SystemFiles\SystemFiles\obj\Debug\netcoreapp3.1\SystemFiles.genruntimeconfig.cache

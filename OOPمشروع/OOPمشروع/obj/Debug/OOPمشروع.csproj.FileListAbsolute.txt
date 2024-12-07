@@ -1,0 +1,7 @@
+C:\Users\Abo_7\source\repos\OOPمشروع\OOPمشروع\bin\Debug\OOPمشروع.exe.config
+C:\Users\Abo_7\source\repos\OOPمشروع\OOPمشروع\bin\Debug\OOPمشروع.exe
+C:\Users\Abo_7\source\repos\OOPمشروع\OOPمشروع\bin\Debug\OOPمشروع.pdb
+C:\Users\Abo_7\source\repos\OOPمشروع\OOPمشروع\obj\Debug\OOPمشروع.csprojAssemblyReference.cache
+C:\Users\Abo_7\source\repos\OOPمشروع\OOPمشروع\obj\Debug\OOPمشروع.csproj.CoreCompileInputs.cache
+C:\Users\Abo_7\source\repos\OOPمشروع\OOPمشروع\obj\Debug\OOPمشروع.exe
+C:\Users\Abo_7\source\repos\OOPمشروع\OOPمشروع\obj\Debug\OOPمشروع.pdb

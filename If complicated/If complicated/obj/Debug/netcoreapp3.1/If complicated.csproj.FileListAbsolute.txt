@@ -1,0 +1,4 @@
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If complicated\If complicated\obj\Debug\netcoreapp3.1\If complicated.csprojAssemblyReference.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If complicated\If complicated\obj\Debug\netcoreapp3.1\If complicated.AssemblyInfoInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If complicated\If complicated\obj\Debug\netcoreapp3.1\If complicated.AssemblyInfo.cs
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\If complicated\If complicated\obj\Debug\netcoreapp3.1\If complicated.csproj.CoreCompileInputs.cache

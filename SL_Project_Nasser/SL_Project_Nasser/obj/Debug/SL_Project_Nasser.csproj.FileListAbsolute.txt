@@ -1,0 +1,14 @@
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\bin\Debug\SL_Project_Nasser.exe.config
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\bin\Debug\SL_Project_Nasser.exe
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\bin\Debug\SL_Project_Nasser.pdb
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\obj\Debug\SL_Project_Nasser.csprojAssemblyReference.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\obj\Debug\SL_Project_Nasser.csproj.CoreCompileInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\obj\Debug\SL_Project_Nasser.exe
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\obj\Debug\SL_Project_Nasser.pdb
+D:\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\bin\Debug\SL_Project_Nasser.exe.config
+D:\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\bin\Debug\SL_Project_Nasser.exe
+D:\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\bin\Debug\SL_Project_Nasser.pdb
+D:\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\obj\Debug\SL_Project_Nasser.csprojAssemblyReference.cache
+D:\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\obj\Debug\SL_Project_Nasser.csproj.CoreCompileInputs.cache
+D:\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\obj\Debug\SL_Project_Nasser.exe
+D:\C#Scripts\SL_Project_Nasser\SL_Project_Nasser\obj\Debug\SL_Project_Nasser.pdb

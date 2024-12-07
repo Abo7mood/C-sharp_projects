@@ -1,0 +1,162 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.AI;
+public class IceAttack : MonoBehaviour
+{
+
+    //1 speed for each 1.7 distance;
+    private float stoppingDistance = 6;
+   [HideInInspector] public float distancee;
+    public float _RealSpeed;
+    float _speed;
+    float pathLength = 0;
+    public float elapsed = 0.0f;
+    [SerializeField] private float _turnSpeed = 2.75f;
+    NavMeshAgent agent;
+    NavMeshPath path;
+    bool CanRepeat;
+
+    public static IceAttack instance;
+    private void Awake()
+    {
+        CanRepeat = true;
+
+    }
+   
+    void Start()
+    {
+        instance = this;
+
+
+        PlayerIceLocation();
+
+        path = new NavMeshPath();
+        agent = GetComponent<NavMeshAgent>();
+
+    }
+
+
+    void Update()
+    {
+
+       
+        gameObject.GetComponent<NavMeshAgent>().enabled = true;
+        agent.SetDestination(BossController.instance.IceLocationMother.transform.position);
+
+        Debug.Log(VFx.instance.CanInstintiate);
+
+        if (GetRemainingDistance() < 2)
+        {
+            transform.localPosition = new Vector3(0, 0, 0);
+        }
+        else { }
+
+        if (GetRemainingDistance() < stoppingDistance)
+        {
+            VFx.instance.CanInstintiate = false;
+            elapsed = 0;
+        }
+        else
+        {
+         
+            VFx.instance.CanInstintiate = true;
+            elapsed += Time.deltaTime;
+        }
+
+        Debug.Log(agent.path.corners.Length);
+
+        if (GetRemainingDistance() < 60 )
+        {
+            LevelManager.instance.CanIceAttackOn = true;
+        }
+        else
+        {
+            LevelManager.instance.CanIceAttackOn = false;
+        }
+        #region comment
+        //if (elapsed > 1.0f)
+        //{
+        //    elapsed -= 1.0f;
+        //    NavMesh.CalculatePath(transform.position, target.position, NavMesh.AllAreas, path);
+        //}
+        //for (int i = 0; i < path.corners.Length - 1; i++)
+        //    Debug.DrawLine(path.corners[i], path.corners[i + 1], Color.red);
+
+        //Vector3 direction = (LevelManager.instance.player.position - transform.position).normalized;
+        //Quaternion lookRotation = Quaternion.LookRotation(new Vector3(direction.x, 0, direction.z));
+        //transform.rotation = Quaternion.Slerp(transform.rotation, lookRotation, Time.deltaTime * _turnSpeed);
+
+        //Debug.Log(distance);
+
+        //Vector3 point;
+        //if (RandomPoint(transform.position, out point))
+        //{
+        //    Debug.DrawRay(point, Vector3.up, Color.blue, 1.0f);
+        //}
+        //NavMesh.CalculatePath(transform.position, LevelManager.instance.IceLocationMother.transform.position, NavMesh.AllAreas, path);
+
+        //Debug.Log(GetRemainingDistance());-
+        #endregion
+
+    }
+
+    public void PlayerIceLocation()
+    {
+        BossController.instance.IceLocationMother = Instantiate(BossController.instance.IceLocation,
+            LevelManager.instance.player.transform.position, Quaternion.identity, null);
+
+    }
+    public float GetRemainingDistance()
+    {
+        distancee = 0;
+        _speed = 0;
+        Vector3[] corners = agent.path.corners;
+
+        if (corners.Length > 2)
+        {
+         
+            for (int i = 1; i < 10; i++)
+            {
+               
+                    Vector2 previous = new Vector2(corners[i - 1].x, corners[i - 1].z);
+                    Vector2 current = new Vector2(corners[i].x, corners[i].z);
+
+                    distancee += Vector2.Distance(previous, current);
+               
+               
+
+            }
+
+           
+            
+            StartCoroutine(RealSpeed());
+        }
+      
+        else
+        {
+            StartCoroutine(RealSpeed());
+            distancee = agent.remainingDistance;
+
+
+        }
+     
+
+        return distancee;
+    }
+
+    IEnumerator RealSpeed()
+    {
+        while (CanRepeat == true)
+        {
+            yield return new WaitForSeconds(.4f);
+            _RealSpeed = distancee / 2.2f;
+            agent.speed = _RealSpeed;
+            CanRepeat = false;
+            yield return new WaitForEndOfFrame();
+        }
+
+    }
+
+
+}

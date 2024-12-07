@@ -1,0 +1,13 @@
+C:\Users\Abo_7\source\repos\6wrni\6wrni\bin\Debug\netcoreapp3.1\6wrni.exe
+C:\Users\Abo_7\source\repos\6wrni\6wrni\bin\Debug\netcoreapp3.1\6wrni.deps.json
+C:\Users\Abo_7\source\repos\6wrni\6wrni\bin\Debug\netcoreapp3.1\6wrni.runtimeconfig.json
+C:\Users\Abo_7\source\repos\6wrni\6wrni\bin\Debug\netcoreapp3.1\6wrni.runtimeconfig.dev.json
+C:\Users\Abo_7\source\repos\6wrni\6wrni\bin\Debug\netcoreapp3.1\6wrni.dll
+C:\Users\Abo_7\source\repos\6wrni\6wrni\bin\Debug\netcoreapp3.1\6wrni.pdb
+C:\Users\Abo_7\source\repos\6wrni\6wrni\obj\Debug\netcoreapp3.1\6wrni.AssemblyInfoInputs.cache
+C:\Users\Abo_7\source\repos\6wrni\6wrni\obj\Debug\netcoreapp3.1\6wrni.AssemblyInfo.cs
+C:\Users\Abo_7\source\repos\6wrni\6wrni\obj\Debug\netcoreapp3.1\6wrni.csproj.CoreCompileInputs.cache
+C:\Users\Abo_7\source\repos\6wrni\6wrni\obj\Debug\netcoreapp3.1\6wrni.dll
+C:\Users\Abo_7\source\repos\6wrni\6wrni\obj\Debug\netcoreapp3.1\6wrni.pdb
+C:\Users\Abo_7\source\repos\6wrni\6wrni\obj\Debug\netcoreapp3.1\6wrni.genruntimeconfig.cache
+C:\Users\Abo_7\source\repos\6wrni\6wrni\obj\Debug\netcoreapp3.1\6wrni.csprojAssemblyReference.cache

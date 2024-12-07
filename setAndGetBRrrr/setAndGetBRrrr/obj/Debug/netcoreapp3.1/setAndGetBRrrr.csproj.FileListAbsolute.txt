@@ -1,0 +1,13 @@
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\setAndGetBRrrr\setAndGetBRrrr\bin\Debug\netcoreapp3.1\setAndGetBRrrr.exe
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\setAndGetBRrrr\setAndGetBRrrr\bin\Debug\netcoreapp3.1\setAndGetBRrrr.deps.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\setAndGetBRrrr\setAndGetBRrrr\bin\Debug\netcoreapp3.1\setAndGetBRrrr.runtimeconfig.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\setAndGetBRrrr\setAndGetBRrrr\bin\Debug\netcoreapp3.1\setAndGetBRrrr.runtimeconfig.dev.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\setAndGetBRrrr\setAndGetBRrrr\bin\Debug\netcoreapp3.1\setAndGetBRrrr.dll
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\setAndGetBRrrr\setAndGetBRrrr\bin\Debug\netcoreapp3.1\setAndGetBRrrr.pdb
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\setAndGetBRrrr\setAndGetBRrrr\obj\Debug\netcoreapp3.1\setAndGetBRrrr.csprojAssemblyReference.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\setAndGetBRrrr\setAndGetBRrrr\obj\Debug\netcoreapp3.1\setAndGetBRrrr.AssemblyInfoInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\setAndGetBRrrr\setAndGetBRrrr\obj\Debug\netcoreapp3.1\setAndGetBRrrr.AssemblyInfo.cs
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\setAndGetBRrrr\setAndGetBRrrr\obj\Debug\netcoreapp3.1\setAndGetBRrrr.csproj.CoreCompileInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\setAndGetBRrrr\setAndGetBRrrr\obj\Debug\netcoreapp3.1\setAndGetBRrrr.dll
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\setAndGetBRrrr\setAndGetBRrrr\obj\Debug\netcoreapp3.1\setAndGetBRrrr.pdb
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\setAndGetBRrrr\setAndGetBRrrr\obj\Debug\netcoreapp3.1\setAndGetBRrrr.genruntimeconfig.cache

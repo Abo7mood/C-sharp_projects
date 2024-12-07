@@ -1,0 +1,13 @@
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.exe
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.deps.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.runtimeconfig.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.runtimeconfig.dev.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.dll
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.pdb
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.csprojAssemblyReference.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.AssemblyInfoInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.AssemblyInfo.cs
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.dll
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.pdb
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.genruntimeconfig.cache

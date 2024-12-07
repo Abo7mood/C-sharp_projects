@@ -1,0 +1,7 @@
+C:\Users\Abo_7\source\repos\OOPX\OOPX\bin\Debug\OOPX.exe.config
+C:\Users\Abo_7\source\repos\OOPX\OOPX\bin\Debug\OOPX.exe
+C:\Users\Abo_7\source\repos\OOPX\OOPX\bin\Debug\OOPX.pdb
+C:\Users\Abo_7\source\repos\OOPX\OOPX\obj\Debug\OOPX.csprojAssemblyReference.cache
+C:\Users\Abo_7\source\repos\OOPX\OOPX\obj\Debug\OOPX.csproj.CoreCompileInputs.cache
+C:\Users\Abo_7\source\repos\OOPX\OOPX\obj\Debug\OOPX.exe
+C:\Users\Abo_7\source\repos\OOPX\OOPX\obj\Debug\OOPX.pdb

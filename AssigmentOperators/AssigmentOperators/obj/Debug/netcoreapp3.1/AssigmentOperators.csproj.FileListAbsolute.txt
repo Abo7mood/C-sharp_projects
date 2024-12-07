@@ -1,0 +1,13 @@
+C:\Users\Abo_7\source\repos\HassounaAcademy\AssigmentOperators\AssigmentOperators\bin\Debug\netcoreapp3.1\AssigmentOperators.exe
+C:\Users\Abo_7\source\repos\HassounaAcademy\AssigmentOperators\AssigmentOperators\bin\Debug\netcoreapp3.1\AssigmentOperators.deps.json
+C:\Users\Abo_7\source\repos\HassounaAcademy\AssigmentOperators\AssigmentOperators\bin\Debug\netcoreapp3.1\AssigmentOperators.runtimeconfig.json
+C:\Users\Abo_7\source\repos\HassounaAcademy\AssigmentOperators\AssigmentOperators\bin\Debug\netcoreapp3.1\AssigmentOperators.runtimeconfig.dev.json
+C:\Users\Abo_7\source\repos\HassounaAcademy\AssigmentOperators\AssigmentOperators\bin\Debug\netcoreapp3.1\AssigmentOperators.dll
+C:\Users\Abo_7\source\repos\HassounaAcademy\AssigmentOperators\AssigmentOperators\bin\Debug\netcoreapp3.1\AssigmentOperators.pdb
+C:\Users\Abo_7\source\repos\HassounaAcademy\AssigmentOperators\AssigmentOperators\obj\Debug\netcoreapp3.1\AssigmentOperators.csprojAssemblyReference.cache
+C:\Users\Abo_7\source\repos\HassounaAcademy\AssigmentOperators\AssigmentOperators\obj\Debug\netcoreapp3.1\AssigmentOperators.AssemblyInfoInputs.cache
+C:\Users\Abo_7\source\repos\HassounaAcademy\AssigmentOperators\AssigmentOperators\obj\Debug\netcoreapp3.1\AssigmentOperators.AssemblyInfo.cs
+C:\Users\Abo_7\source\repos\HassounaAcademy\AssigmentOperators\AssigmentOperators\obj\Debug\netcoreapp3.1\AssigmentOperators.csproj.CoreCompileInputs.cache
+C:\Users\Abo_7\source\repos\HassounaAcademy\AssigmentOperators\AssigmentOperators\obj\Debug\netcoreapp3.1\AssigmentOperators.dll
+C:\Users\Abo_7\source\repos\HassounaAcademy\AssigmentOperators\AssigmentOperators\obj\Debug\netcoreapp3.1\AssigmentOperators.pdb
+C:\Users\Abo_7\source\repos\HassounaAcademy\AssigmentOperators\AssigmentOperators\obj\Debug\netcoreapp3.1\AssigmentOperators.genruntimeconfig.cache

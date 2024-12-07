@@ -1,0 +1,13 @@
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.exe
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.deps.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.dev.json
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.dll
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.pdb
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.csprojAssemblyReference.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfoInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfo.cs
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.dll
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.pdb
+C:\Users\Abo_7\OneDrive\Desktop\C#Scripts\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.genruntimeconfig.cache
