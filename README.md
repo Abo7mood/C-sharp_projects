@@ -1,6 +1,9 @@
 # Multiple C# Projects Repository 💻
 Welcome to the repository for my multiple C# projects! ✨ This is a collection of small, beginner-friendly projects showcasing basic concepts and functionalities in C#. Explore, learn, and enjoy!
 
+# Solo Projects 🔥🔥🔥
+all of these projects has been done solo
+
 ## 🌟 Project List 🌟
 Here is a list of the projects included in this repository:
 
